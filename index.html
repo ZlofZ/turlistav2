@@ -4,24 +4,57 @@
   <title>Körschema</title>
   <meta charset="utf-8">
   <link href="style/stylesheetRoutes.css" rel="stylesheet">
+  <script type="text/javascript" src="script/FileSaver.min.js">
+
+  </script>
+  <script src="script/routelist.js"></script>
+
+  </script>
 </head>
-<body>
+<body onload="onready()">
   <div id="menu-container">
 
     <div id="seach-bar-wrapper">
-      <input id="search-bar" type="text" value="SÖK">
+      <input id="search-bar" type="text" placeholder="SÖK">
     </div>
 
     <div id="nav-bar-wrapper">
       <ul >
-        <li><a id="add-line" class="button" href="#">Lägg till Tur</a></li>
+        <li><a id="add-line" class="button" href="#" onclick="clickAddRoute()">Lägg till Tur</a></li>
       </ul>
     </div>
 
   </div>
 
-  <div class="">
+  <div class="content">
+    <table>
 
+    </table>
   </div>
+
+  <div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <form id="addrouteform" action="index.html" method="post">
+      <input type="text" name="turid" placeholder="Tur-ID">
+      <input type="text" name="turnamn" placeholder="Turnamn">
+      <div id="modal-container-div">
+        <div class="modal-div">
+          <h4>Fraktioner</h4>
+
+        </div>
+        <div class="modal-div">
+          <h4>Kommuner</h4>
+        </div>
+      </div>
+
+      <a href="#" id="modal-save-button">Spara</a>
+    </form>
+  </div>
+
+</div>
+
 </body>
 </html>

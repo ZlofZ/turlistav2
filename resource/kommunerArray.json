@@ -1,0 +1,120 @@
+[
+    {
+      "name":"Mariehamn",
+      "areas":[
+        {"Norra":["Västra Klinten","Klinten","Nabben","Sjukhuset","Strandnäs","Backeberg","Apalängen","Kasberget","Johannebo","Hindersböle","Dalbo","Norrböle","Österbacka"]},
+        {"Södra":["Västernäs","Östernäs","Ytternäs","Espholm","Styrsö","Svinö"]}
+      ]
+    },
+    {
+      "name":"Jomala",
+      "areas":[
+        {"Västra":["Sviby","Kungsö","Torp","Brändö","Djurvik","Gottby","Ödanböle","Hammarudda","Kungsö","Ramsholmen","Södersunda","Västansunda"]},
+        {"Östra":["Vesterkalmare","Österkalmare","Önningeby","Jättböle","Ytterby","Överby"]},
+        {"Norra":["Björsby","Karrböle","Andersböle","Buskböle","Dalkarby","Gölby","Ingby","Jomalaby","Möckelby","Ulfsby","Ringsböle","Norrsunda","Vargsunda"]}
+      ]
+    },
+    {
+      "name":"Finström",
+      "areas":[
+         "Bamböle",
+         "Bartsgårda",
+         "Bastö",
+         "Bergö",
+         "Bjärström",
+         "Brantsböle (del av Pålsböle)",
+         "Emkarby",
+         "Enbolstad",
+         "Gibböle (del av Ämnäs)",
+         "Godby",
+         "Grelsby",
+         "Kulla",
+         "Mangelbo (del av Grelsby)",
+         "Markusböle",
+         "Pettböle",
+         "Pålsböle",
+         "Rebböle (del av Bamböle)",
+         "Rågetsböle",
+         "Strömsvik",
+         "Stålsby",
+         "Svartsmara",
+         "Tjudö",
+         "Torrbolstad",
+         "Tärnebolstad",
+         "Vandö",
+         "Västanträsk",
+         "Åttböle",
+         "Ämnäs",
+         "Östanåker (del av Emkarby)"
+      ]
+    },
+    {
+      "name":"Eckerö",
+      "areas":[
+         "Storby",
+         "Björnhuvud",
+         "Finbo",
+         "Kyrkoby",
+         "Marby",
+         "Torp",
+         "Överby",
+         "Degersand",
+         "Torp",
+         "Skag"
+      ]
+    },
+    {
+      "name":"Hammarland",
+      "areas":[
+        "Bovik",
+        "Bredbolstad",
+        "Byttböle",
+        "Djäkenböle",
+        "Drygsböle",
+        "Frebbenby",
+        "Hellesby",
+        "Kattby",
+        "Kråkböle",
+        "Lillbolstad",
+        "Mörby",
+        "Näfsby",
+        "Postad",
+        "Skarpnåtö",
+        "Strömma",
+        "Torp (Bondtorp, Mellantorp, Samuelstorp och Östanträsk)",
+        "Västmyra",
+        "Äppelö",
+        "Öra"
+      ]
+    },
+    {
+      "name":"Geta",
+      "areas": [
+        "Andersö",
+        "Bolstaholm","Dånö","Finnö","Gräggnäs","Höckböle Isaksö","Labbnäs","Möckelgräs","Olofsnäs (Oslnäs)","Östergeta","Pantsarnäs","Skinnarböle","Snäckö","Vestergeta"]
+    },
+    {
+      "name":"Lemland",
+      "areas": ["Söderby","Järsö","Nåtö","Norrby","Bengtsböle","Bistorp","Flaka","Granboda","Haddnäs","Hellestorp","Knutsboda","Prestgården","Rörstorp","Vessingsboda","Västeränga"]
+    },
+    {
+      "name":"Lumparland",
+      "areas":["Klemetsby","Lumparby","Norrboda","Lumpo","Krogstad","Svinö","Skag"]
+    },
+    {
+      "name":"Sund",
+      "areas":["Berg","Björby","Brännbolstad","Delvik","Domarböle","Finby","Gesterby","Hulta","Högbolstad","Jussböle","Kastelholm","Kulla","Lappböle","Lövvik","Mångstekta","Persby","Prästö","Sibby","Smedsböle","Strömbolstad","Svensböle","Tosarby","Tranvik","Vivastby"]
+    },
+    {
+      "name":"Saltvik",
+      "areas":["Kroklund","Bertbyvik","Brusta","Antböle","Bertby","Borgboda","Boxö","Daglösa","Främmanby","Germundö","Hamnsundet","Haga","Haraldsby","Hjortö","Hullby","Kuggböle","Kvarnbo","Laby","Lagmansby","Lavsböle","Lavö","Liby","Långbergsöda","Nääs","Ovanåker","Rangsby","Ryssböle","Ryssö","Saggö","Sonröda","Strömma","Syllöda","Sålis","Toböle","Tängsöda","Tängsödavik","Vassböle","Åsgårda","Ödkarby"]
+    },
+    {
+      "name":"Vårdö",
+      "areas":["Bergö","Bussö","Grundsunda","Ledsöra","Listersby","Lövö","Mickelsö","Sandö","Simskäla","Töftö","Vargata","Vårdö by","Ängö","Strömsby"]
+    },
+    {
+      "name":"Föglö",
+      "areas": ["Björsboda","Bråttö","Brändö","Bänö","Degerby","Finholma","Flisö","Granboda","Hastersboda","Horsholma","Hummersö","Kallsö","Klåvskär","Näversholma","Nötö","Prästgården by","Sanda","Skogboda","Sonboda","Sommarö","Stentorpa","Jyddö","Ulversö","Överö"]
+  }
+]
